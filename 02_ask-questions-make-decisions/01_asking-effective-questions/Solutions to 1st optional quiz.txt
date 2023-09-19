@@ -1,0 +1,200 @@
+Categorizing things is indeed one of the six problem types that data analysts solve. This type of problem might involve the following actions:
+
+Data Exploration: Analyzing and understanding the dataset to identify patterns, trends, and relationships.
+Data Cleaning: Preprocessing and cleaning the data to remove errors, inconsistencies, or missing values.
+Feature Engineering: Creating new features or transforming existing ones to improve the performance of machine learning models.
+Model Selection: Choosing an appropriate machine learning model based on the problem requirements and dataset characteristics.
+Model Training: Training the selected model using the labeled data to learn patterns and make predictions.
+Model Evaluation: Assessing the performance of the trained model using appropriate evaluation metrics.
+These actions are not exhaustive but provide a general overview of the steps involved in solving problems related to categorizing things in data analysis.
+
+Let me know if there’s anything else I can help you with!
+
+1
+of
+30
+
+
+
+
+select options from the following : 1)Noticing something outside of the ordinary 2)Using data to envision how something might happen in the future. 3)Classifying or grouping items 4)Analyzing how one action leads to or affects another
+From the given options, the action that is most closely related to categorizing or grouping items is Option 3.
+
+Let me know if there’s anything else I can help you with!
+
+2
+of
+30
+Finding patterns is one of the six problems types data analysts aim to solve . This type of problem might involve which of the following ? 1) Identifying trends from historical data 2) Noticing something outside of the ordinary 3)Analyzing how one action leads to or affects another 4)Taking categorized items and grouping them into broader topic areas
+Finding patterns is indeed one of the six problem types that data analysts aim to solve. This type of problem might involve the following actions:
+
+Identifying trends from historical data: Analyzing past data to uncover recurring patterns or behaviors.
+Noticing something outside of the ordinary: Identifying anomalies or outliers that deviate from expected patterns.
+Analyzing how one action leads to or affects another: Investigating cause-and-effect relationships between different variables or actions.
+Taking categorized items and grouping them into broader topic areas: Organizing and classifying data into meaningful categories or clusters.
+These actions are not exhaustive but provide a general overview of the steps involved in solving problems related to finding patterns in data analysis.
+
+Let me know if there’s anything else I can help you with!
+
+3
+of
+30
+In the SMART methodology, questions that encourage change are described how? 1)Action-oriented 2)Specific 3)Time-bound 4)Relevant
+In the SMART methodology, questions that encourage change are described as action-oriented. These questions focus on identifying specific actions or steps that can be taken to bring about the desired change. By asking action-oriented questions, individuals or teams can develop a clear plan of action and take concrete steps towards achieving their goals.
+
+Let me know if there’s anything else I can help you with!
+
+4
+of
+30
+Fill in the blanks : In data analytics, qualitative data ________. Select all that apply. 1)measures qualities and characteristics 2)is subjective 3) is specific 4)measures numerical facts
+Searching for: qualitative data in data analytics
+
+Searching for: qualitative data in data analytics
+
+Generating answers for you…
+
+Generating answers for you…
+
+In data analytics, qualitative data is used to measure qualities and characteristics1. It is subjective1 and specific1. However, it does not measure numerical facts1.
+
+Let me know if there’s anything else I can help you with!
+
+Learn more:
+1. questionpro.com
+2. getthematic.com
+3. hotjar.com
+4. userpilot.com
++3 more
+5
+of
+30
+In data analytics, how are dashboards different from reports? 1)Dashboards are used to share updates with stakeholders continous access to data 2)Dashboards provide a high level look at historical data. Reports provide a more detailed look at live, interactive, data. 3)Dashboards contain static data. Reports contains data that is constantly changing 4)Dashboards monitor live, incoming data from multiple datasets and organize the information into one central location. Reports are static collections of data.
+Searching for: difference between dashboards and reports in data analytics
+
+Searching for: difference between dashboards and reports in data analytics
+
+Generating answers for you…
+
+Generating answers for you…
+
+Dashboards and reports are two essential tools used in data analytics. Here are the key differences between them:
+
+Dashboards are used to share updates with stakeholders and provide continuous access to data12. They typically display key performance indicators (KPIs) in a visual format that can be easily understood by stakeholders2. Dashboards can offer a high-level look at historical data, but they can also provide real-time insights by monitoring live, incoming data from multiple datasets23.
+
+Reports, on the other hand, offer more detailed insights into specific aspects of the data2. They tend to be broader and feature historic data3. Reports are often structured and unchanging collections of data that are delivered periodically, providing a snapshot of a specific area or organization34.
+
+In summary, dashboards are ideal for real-time overviews and monitoring live data, while reports offer comprehensive insights in a structured and unchanging format at repeated intervals24.
+
+Let me know if there’s anything else I can help you with!
+
+Learn more:
+1. databox.com
+2. bedatasolutions.com
+3. kyloot.com
+4. agencyanalytics.com
++2 more
+6
+of
+30
+small data differs from big data in what ways? select all that apply ? 1)Small data focuses on short, well-defined data time periods. Big data focuses on change over a long period of time. 2)Small data involves datasets concerned with a small number of specific metrics. Big data involves datasets that are larger and less specific. 3)Small data is effective for analyzing more substantial decisions. 4)Small data is typically stored in a database. Big data is typically stored in a spredsheet.
+Searching for: small data differs from big data
+
+Searching for: small data differs from big data
+
+Generating answers for you…
+
+Generating answers for you…
+
+Small data and big data differ in the following ways:
+
+Small data focuses on short, well-defined data time periods, while big data focuses on change over a long period of time1.
+Small data involves datasets concerned with a small number of specific metrics, whereas big data involves datasets that are larger and less specific1.
+Small data is effective for analyzing more substantial decisions1.
+Small data is typically stored in a database, while big data is typically stored in a spreadsheet1.
+Let me know if there’s anything else I can help you with!
+
+Learn more:
+1. github-wiki-see.page
+2. geeksforgeeks.org
+3. intelliverse.com
+4. idashboards.com
+5. dataversity.net
++3 more
+7
+of
+30
+Fill in the blanks : Some of the most common symbols used in formulas include +(addition), -(subtraction), *(multiplication), and /(division). These are called____
+Searching for: symbols used in formulas
+
+Searching for: symbols used in formulas
+
+Generating answers for you…
+
+Generating answers for you…
+
+Some of the most common symbols used in formulas include +(addition), -(subtraction), *(multiplication), and /(division). These are called operators123.
+
+Let me know if there’s anything else I can help you with!
+
+Learn more:
+1. automateexcel.com
+2. bbc.co.uk
+3. projectcubicle.com
+4. rapidtables.com
+5. chem.libretexts.org
++2 more
+8
+of
+30
+
+In the function =SUM(G1:G35), identify the range. 1)=SUM 2)=SUM(G1) 3)G1:G35 4)G35
+Searching for: range in function =SUM(G1:G35)
+
+Searching for: range in function =SUM(G1:G35)
+
+Generating answers for you…
+
+Generating answers for you…
+
+In the function =SUM(G1:G35), the range is G1:G351.
+
+Let me know if there’s anything else I can help you with!
+
+Learn more:
+1. quiztudy.com
+2. support.microsoft.com
+3. exceldemy.com
++1 more
+9
+of
+30
+to address a vague complex problem a data analyst breaks it down into smaller steps. they use a process to help them recognize the current problem or situation , organize available information , reveals gaps and opportunities and identify options. what does this scenario describe ? 1) Gap analysis 2) analytical thinking 3) data-driven decision making 4) structured thinking
+Generating answers for you…
+
+Generating answers for you…
+
+The scenario you described is an example of structured thinking. In this approach, a data analyst breaks down a vague and complex problem into smaller steps to gain a better understanding of the current problem or situation. By organizing available information, recognizing gaps and opportunities, and identifying options, they can develop a clear plan of action to address the problem effectively.
+
+Let me know if there’s anything else I can help you with!
+
+10
+of
+30
+asking questions including, "Does my analysis answer the orginal question? " and "are there other angles i haven't considered ?" enable data analysts to accomplish what tasks ? select all that apply ? 1)Help teams members make informed , data-driven decisions 2)Consider the best ways to share data with others 3)use data to get to a solid conclusion 4) identify primary and secondary stakeholders
+Searching for: data analysis questions
+
+Searching for: data analysis questions
+
+Generating answers for you…
+
+Generating answers for you…
+
+Asking questions such as “Does my analysis answer the original question?” and “Are there other angles I haven’t considered?” enables data analysts to accomplish the following tasks:
+
+Help team members make informed, data-driven decisions1.
+Consider the best ways to share data with others1.
+Use data to get to a solid conclusion1.
+These questions help data analysts critically evaluate their analysis, ensure it aligns with the original question, explore alternative perspectives, and arrive at well-informed conclusions.
+
+Let me know if there’s anything else I can help you with!
