@@ -1,0 +1,51 @@
+a data analytics team works to recognize the current problems. Then they organize available information to reveal gaps and opportunities. Finally they identify the available options. These steps are part` of what process? 1) Making connections 2)Using structured thinking 3)Categorizing things 4)Applying the SMART methodology
+
+Copy
+Generating answers for you…
+
+Generating answers for you…
+
+The steps you described are part of the structured thinking process. In structured thinking, a data analytics team works to recognize the current problems, organizes available information to reveal gaps and opportunities, and finally identifies the available options. This approach helps break down complex problems into smaller steps, enabling a better understanding of the problem and the development of a clear plan of action.
+
+Let me know if there’s anything else I can help you with!
+
+13
+of
+30
+In which step of the data analysis process would an analyst ask questions such as, "What data errors might get in the way of my analysis ?" or "How can I clean my data so the information I have is consistent? " 1)process 2)Prepare 3)Analyze 4)Ask
+Generating answers for you…
+
+Generating answers for you…
+
+In the data analysis process, an analyst would ask questions such as “What data errors might get in the way of my analysis?” or “How can I clean my data so the information I have is consistent?” during the Prepare step. This step involves gathering and organizing the data, as well as identifying any potential issues or errors that could affect the analysis. By addressing these questions and taking appropriate actions, analysts can ensure the quality and reliability of the data before proceeding to the analysis phase.
+
+Let me know if there’s anything else I can help you with!
+
+14
+of
+30
+A data analyst has entered the analyze step of the data analysis process. Identify the questions they might ask during the phase. select all that apply ? 1)What story is my data telling me? 2)how will my data help me solve this problem ? 3)How can i create an engaging , presentation to stakeholders 4)What is the question I'm trying to ask answer?
+Generating answers for you…
+
+Generating answers for you…
+
+During the Analyze step of the data analysis process, a data analyst might ask the following questions:
+
+What story is my data telling me?
+How will my data help me solve this problem?
+What is the question I’m trying to ask or answer?
+These questions help guide the analysis process and ensure that the data is being interpreted and utilized effectively.
+
+Let me know if there’s anything else I can help you with!
+
+15
+of
+30
+A data analyst is trying to understand what data to use to help solve a business problem. They're asking questions such as, "What internal data is available in the database?" and "What outside facts do I need to research?" The data analyst is in which phase of the data analysis process? 1) Prepare 2)Act 3)Share 4)Ask
+Generating answers for you…
+
+Generating answers for you…
+
+During the Prepare phase of the data analysis process, a data analyst is trying to understand what data to use to help solve a business problem. They ask questions such as “What internal data is available in the database?” and “What outside facts do I need to research?”.
+
+Let me know if there’s anything else I can help you with!
